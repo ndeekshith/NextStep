@@ -1,4 +1,4 @@
-package Basic;
+package Strings;
 
 public class isPallindrome {
     public static void main(String[] args) {
