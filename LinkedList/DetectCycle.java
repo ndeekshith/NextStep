@@ -1,3 +1,4 @@
+
 package LinkedList;
 class DetectCycle{
 
@@ -16,3 +17,5 @@ class DetectCycle{
         return false;
     }
 }
+
+
